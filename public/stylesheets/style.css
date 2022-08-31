@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap');
+
+body {
+    font-family: Qwitcher Grypen;
+    font-size: 50px
+}
+
+.wbody {
+    background-color: #ccc;
+}
+
+.carouselImgs {
+    height: 500px;
+    width: auto;
+}
